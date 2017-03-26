@@ -1,0 +1,22 @@
+{
+  "name": "node_todo",
+  "version": "0.0.1",
+  "description": "Node.js TO-DO REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garytam/node_todo.git"
+  },
+  "author": "Gary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garytam/node_todo/issues"
+  },
+  "homepage": "https://github.com/garytam/node_todo#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
