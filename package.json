@@ -18,5 +18,8 @@
   "homepage": "https://github.com/garytam/node_todo#readme",
   "dependencies": {
     "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
